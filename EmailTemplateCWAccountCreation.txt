@@ -1,0 +1,15 @@
+Hi {FULLNAME},
+<br/>
+
+Your account is successfully created for Integrated Health and Insurance Program.
+
+Below is your password to login further. <br/>
+<br/>
+
+Temporary Password : {PWD}<br/>
+<br/>
+
+
+
+Thanks & Regards,<br/>
+Admin.<br/>
